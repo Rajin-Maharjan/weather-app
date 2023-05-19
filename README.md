@@ -28,7 +28,7 @@ A simple weather app that provides current weather information for various locat
   
 ## Screenshots
 
-![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/f71c16a0-7b26-4097-9ac6-77b0fe904015{width=40px height=400px})
+![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/f71c16a0-7b26-4097-9ac6-77b0fe904015)
 ![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/af35b15b-b0dd-4cda-a6b4-1b7cccbb5269)
   
 ## Configuration
