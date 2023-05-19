@@ -28,9 +28,9 @@ A simple weather app that provides current weather information for various locat
   
 ## Screenshots
 
-![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/f71c16a0-7b26-4097-9ac6-77b0fe904015 width="48" height="50")
+![splash_screen](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/3d61a8dd-6012-41b2-9fbc-9e9716e37a49)
 
-![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/af35b15b-b0dd-4cda-a6b4-1b7cccbb5269)
+![main_page](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/095cf365-7b65-41c0-8c49-2d9525fd4a9f)
   
 ## Configuration
   1. Obtain an API key from https://openweathermap.org/current
