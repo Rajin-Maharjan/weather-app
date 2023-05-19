@@ -27,8 +27,8 @@ The Weather App is a lightweight and user-friendly application that allows users
   Open this app to get weather condition of kathmandu at first. After that you can search for the city to know the weather condition of the city.
   
 ##Screenshots
-![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/af35b15b-b0dd-4cda-a6b4-1b7cccbb5269)
 ![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/f71c16a0-7b26-4097-9ac6-77b0fe904015)
+![image](https://github.com/Rajin-Maharjan/weather-app/assets/132996735/af35b15b-b0dd-4cda-a6b4-1b7cccbb5269)
   
 ##Configuration
   1. Obtain an API key from https://openweathermap.org/current
